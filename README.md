@@ -11,6 +11,6 @@ how to type a title?
 ** what?
   * ?
 
-'''lua
+```javascript
 local table = {}
-'''
+```
